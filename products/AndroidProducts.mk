@@ -25,8 +25,8 @@
     $(LOCAL_DIR)/polaris/pa_polaris.mk \
     $(LOCAL_DIR)/robin/pa_robin.mk \
     $(LOCAL_DIR)/sagit/pa_sagit.mk \
-    $(LOCAL_DIR)/zl1/pa_zl1.mk
-
+    $(LOCAL_DIR)/zl1/pa_zl1.mk \
+    $(LOCAL_DIR)/mido/pa_mido.mk
 # Samsung Exynos family
     PRODUCT_MAKEFILES += \
     $(LOCAL_DIR)/gts210ltexx/pa_gts210ltexx.mk \
